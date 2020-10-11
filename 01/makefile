@@ -1,6 +1,6 @@
 all:
 	g++ 01.cpp -o main
-test: all
+test:
 	./main 2 1 2
 	./main 2 1 5
 	./main 4 3 2 5
