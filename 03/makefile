@@ -1,4 +1,4 @@
-all: main.o Matrix.o
+all: 03.o Matrix.o
 	g++ -o main 03.o Matrix.o
 main.o: main.cpp Matrix.h
 	g++ -c 03.cpp
