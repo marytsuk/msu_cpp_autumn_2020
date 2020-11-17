@@ -4,6 +4,7 @@
 #include <vector>
 #include <exception>
 #include <typeinfo>
+#include <tuple>
 #include <sstream>
 using namespace std;
 
